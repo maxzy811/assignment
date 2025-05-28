@@ -1,0 +1,29 @@
+QUESTION 3: a dataframe is a collection of similar datasets which is typically used in the organization editing and visualization of data using apprioprates tools
+such as data visualizing software or pyhon codes
+
+    panda is a python library that helps read these datasets and assign variables to it so it can be called and used later on. pandas helps in collecting 
+and arranging the data and also provides way to edit the data purely through the function
+
+2:
+- replacing the values with 'NA'
+- mapping missing values with 'O'
+-droping or truncating the values
+
+
+3:
+-supervised learning is a type of machine learning where the model is trained on label data. the goal is to learn a mapping between inputs and the corresponding 
+ outputs labels so the models can make predictions on new unseen data
+ 
+- logistic regression helps in classifying problems like:
+ 1 data  preparation
+ 2 model training
+ 3 prediction
+ 4 sogmoid function
+4
+ confusion matrix is a table used to evaluate the performance of classification model.
+
+4b; 
+-true positive: this model currently predicts a positive class label
+-false positive:
+-true negative
+-false negative
